@@ -1,4 +1,4 @@
-﻿# My's RAG Workshop
+﻿# My RAG Workshop
 
 A simple Python project demonstrating **Retrieval-Augmented Generation (RAG)** using LangChain, Hugging Face embeddings, and Chroma.
 
@@ -12,3 +12,4 @@ A simple Python project demonstrating **Retrieval-Augmented Generation (RAG)** u
 ```bash
 
 pip install langchain langchain-huggingface langchain-community chromadb sentence-transformers
+
